@@ -5,6 +5,7 @@ config.py
 API_practice.ipynb
 .DS_Store
 Geoapify_Places_Search.ipynb
+--pycache__
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
