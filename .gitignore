@@ -6,6 +6,7 @@ API_practice.ipynb
 .DS_Store
 Geoapify_Places_Search.ipynb
 --pycache__
+WeatherPy_vacation-backup.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
